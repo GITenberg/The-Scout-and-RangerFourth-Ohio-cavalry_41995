@@ -1,0 +1,33 @@
+_repo: The-Scout-and-RangerFourth-Ohio-cavalry_41995
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41995-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pike, James
+    alias: Pike, Corporal
+    birthdate: 1834
+    deathdate: 1867
+    gutenberg_agent_id: '41471'
+    url: http://www.gutenberg.org/2009/agents/41471
+description: ''
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41995'
+  lccn: 06028591
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Texas Rangers'
+- !lcsh 'Indians of North America -- Wars -- 1815-1875'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Scouts and scouting'
+- !lcc 'F350.5'
+title: "The Scout and Ranger\r\nBeing the Personal Adventures of Corporal Pike of\
+  \ the Fourth Ohio cavalry"
+url: http://www.gutenberg.org/ebooks/41995
